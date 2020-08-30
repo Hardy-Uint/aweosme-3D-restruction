@@ -498,6 +498,9 @@
 5. [NRMVS: Non-Rigid Multi-View Stereo](http://arxiv.org/abs/1901.03910v1)
 6. [Multi-View Stereo 3D Edge Reconstruction](http://arxiv.org/abs/1801.05606v1)
 7. [Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference](https://arxiv.org/abs/1902.10556)
+8. Multi-View Stereo for Community Photo Collections
+9. Multi-View Stereo: A Tutorial
+10. State of the Art 3D Reconstruction Techniques
 
 #### 综述
 
@@ -553,6 +556,17 @@
 
 1. [3D Textured Model Encryption via 3D Lu Chaotic Mapping](https://arxiv.org/abs/1709.08364v1)
 
+#### 大场景三维重建
+
+1. Large-scale 3D Reconstruction from Images
+2. Graphmatch: Efficient Large-Scale Graph Construction for Structure from Motion
+
+#### 深度学习方式的三维重建
+
+1. Surfacenet: An end-to-end 3d neural network for multiview stereopsis
+2. Stereo matching by training a convolutional neural network to compare image patches
+3. AtlasNet: A Papier-Mache Approach to Learning 3D Surface Generation
+
 ### Courses
 
 - [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (UC Berkeley)
@@ -601,6 +615,15 @@
 ## 深度相机三维重建
 
 > 主要是基于Kinect这类深度相机进行三维重建，包括KinectFusion、Kintinuous，ElasticFusion、InfiniTAM，BundleFusion
+
+### papers
+
+1. State of Art on 3D Reconstruction with RGB-D Cameras
+2. 3D indoor scene modeling from RGB-D data: a survey
+
+## 手机移动端的三维重建
+
+1. 3DCapture: 3D Reconstruction for a Smartphone
 
 ## 基于线条/面的三维重建
 
