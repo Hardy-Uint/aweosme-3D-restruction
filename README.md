@@ -4,7 +4,9 @@
 >
 > 来源：[3D视觉工坊](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247484684&idx=1&sn=e812540aee03a4fc54e44d5555ccb843&chksm=fbff2e38cc88a72e180f0f6b0f7b906dd616e7d71fffb9205d529f1238e8ef0f0c5554c27dd7&token=691734513&lang=zh_CN#rd)
 >
-> 3D重建算法汇总，涉及单目、双目、多目、结构光等方式
+> 3D重建算法汇总，涉及单目、双目、多目、结构光等方式~
+>
+> 公众号运营者和嘉宾介绍：运营者来自国内一线大厂的算法工程师，深研3D视觉、vSLAM、计算机视觉、点云处理、深度学习、自动驾驶、图像处理、三维重建等领域，特邀嘉宾包括国内外知名高校的博士硕士，旷视、商汤、百度、阿里等就职的算法大佬，欢迎一起交流学习！
 
 # 三维重建
 
@@ -253,6 +255,7 @@
 
 1. [Review of Stereo Vision Algorithms: From Software to Hardware  ](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vision/blob/master)
 2. [双目立体视觉的研究现状及进展](http://www.opticsjournal.net/Articles/Abstract?aid=OJ180915000179tZw3z6)
+3. 双目视觉的匹配算法综述 
 
 ### 单目视觉成像
 
@@ -502,7 +505,7 @@
 9. Multi-View Stereo: A Tutorial
 10. State of the Art 3D Reconstruction Techniques
 
-#### 综述
+综述
 
 1. [Multi-view stereo: A tutorial](https://www.mendeley.com/catalogue/multiview-stereo-tutorial/)
 2. [State of the Art 3D Reconstruction Techniques](https://docs.google.com/file/d/0B851Hlh7xL0KNGx3X09VcEYzSjg/preview) N. Snavely, Y. Furukawa, CVPR 2014 tutorial slides. [Introduction](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_intro.pdf) [MVS with priors](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_mvs_prior.pdf) - [Large scale MVS](http://www.cse.wustl.edu/~furukawa/papers/cvpr2014_tutorial_large_scale_mvs.pdf)
